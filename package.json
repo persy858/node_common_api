@@ -1,11 +1,22 @@
 {
-  "name": "nodejs_api",
-  "version": "1.0.0",
-  "description": "common toolkit",
-  "main": "index.js",
+  "name": "node-common-api",
+  "version": "1.0.0", 
+  "author": "node", 
+  "description": "common toolkit", 
+  "keywords": ["utils", "format", "money", "phone"], 
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:persy858/node_common_api.git"
+  },
+  "license": "ISC", 
+  "homepage": "https://github.com/persy858/node_common_api",
+  "bugs": "https://github.com/persy858/node_common_api/issues", 
+  "main": "index.js", 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "node",
-  "license": "ISC"
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
 }
